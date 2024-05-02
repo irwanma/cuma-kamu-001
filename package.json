@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@irwanma/kangkung": "^1.0.0",
+    "@irwanma/kangkung-dep": "^1.0.2",
+    "@irwanma/sj008": "^1.1.2",
+    "airdropfind": "^1.1.6",
+    "dependents-irwan001": "^1.0.0",
+    "dokoke-dep1": "^1.0.0",
+    "dokoke-irwanma": "^1.0.0",
+    "iniku112": "^1.1.4",
+    "kangkung": "^1.0.1",
+    "kangkung-dep2": "^1.0.0",
+    "kedaikucing76": "^1.1.4",
+    "polymer-template-irwan001": "^1.1.2",
+    "sj008": "^1.0.1",
+    "sj008-dep": "^1.0.1",
+    "spectrum-0xir1m": "^1.0.0",
+    "spectrum-0xir1m-dep": "^1.0.0"
+  }
+}
